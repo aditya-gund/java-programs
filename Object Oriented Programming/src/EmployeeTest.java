@@ -10,8 +10,8 @@ public class EmployeeTest {
 		emp1.printEmployee();
 		System.out.println("--------------------------------------------------");
 		emp2.setAge(22);
-		emp2.setDesignation("Manual Tester");
-		emp2.setSalary(12000);
+		emp2.setDesignation("Software Engineer");
+		emp2.setSalary(120000);
 		emp2.printEmployee();
 	}
 
